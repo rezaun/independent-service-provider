@@ -1,0 +1,16 @@
+.footerContainer{
+    background-color: royalblue;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.footerContainer a{
+    color: bisque;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.footerContainer a:hover{
+    color: tomato;
+}
