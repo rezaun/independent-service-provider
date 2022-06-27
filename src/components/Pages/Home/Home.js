@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from '../Banner/Banner';
+import Services from '../Services/Services';
 
 const Home = () => {
     return (
@@ -7,7 +8,8 @@ const Home = () => {
             <Banner/>
            <div className="container">
             
-            <h2>This is home page</h2>
+            <h2 className='text-center text-primary py-4'>Services</h2>
+            <Services/>
            </div>
         </>
     );
