@@ -3,6 +3,7 @@ import weeding from '../../../assets/Images/Services/weeding.jpg'
 import maternity from '../../../assets/Images/Services/maternity.jpg'
 import product from '../../../assets/Images/Services/product.jpg'
 import food from '../../../assets/Images/Services/food.jpg'
+import { Link } from 'react-router-dom';
 
 const Service = () => {
     return (
@@ -24,7 +25,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                            <button className='btn btn-primary'>Book Now</button>
+                                <Link className='btn btn-primary' to='/checkout'>Book Now</Link>
                         </div>
 
                     </div>
@@ -44,7 +45,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                            <button className='btn btn-primary'>Book Now</button>
+                                <Link className='btn btn-primary' to='/checkout'>Book Now</Link>
                         </div>
 
                     </div>
@@ -64,7 +65,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                            <button className='btn btn-primary'>Book Now</button>
+                                <Link className='btn btn-primary' to='/checkout'>Book Now</Link>
                         </div>
 
                     </div>
@@ -84,7 +85,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                            <button className='btn btn-primary'>Book Now</button>
+                            <Link className='btn btn-primary' to='/checkout'>Book Now</Link>
                         </div>
 
                     </div>

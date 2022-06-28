@@ -24,7 +24,7 @@ const Photographer = () => {
                                 <p>Rating: {service.rating}/10</p>
                                 <p>Phone: <span className='text-primary'>{service.phone}</span></p>
                                 <p className="card-text">{service.description.slice(0,120)}</p>
-                                <button className='btn btn-success'>Hire Me</button>
+                                <Link className='btn btn-success' to='/checkout'>Hire Me</Link>
                             </div>
                            
                         </div>

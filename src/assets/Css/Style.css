@@ -20,3 +20,11 @@ button:hover{
 .footerContainer a:hover{
     color: tomato;
 }
+/* css for login page */
+.error-message{
+    color: red;
+}
+.loginUser{
+    color: blue;
+    
+}
