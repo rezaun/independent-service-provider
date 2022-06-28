@@ -17,7 +17,7 @@ const Nav = () => {
                                 <CustomLink class="nav-link active" aria-current="page" to='/home'>Home</CustomLink>
                             </li>
                             <li class="nav-item">
-                                <CustomLink class="nav-link" to='/about'>About Me</CustomLink>
+                                <CustomLink class="nav-link" to='/aboutme'>About Me</CustomLink>
                             </li>
                             <li class="nav-item">
                                 <CustomLink class="nav-link" to='/blog'>Blog</CustomLink>

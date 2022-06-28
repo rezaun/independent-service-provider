@@ -24,7 +24,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                            <button className='btn btn-primary'>Book</button>
+                            <button className='btn btn-primary'>Book Now</button>
                         </div>
 
                     </div>
@@ -44,7 +44,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                            <button className='btn btn-primary'>Book</button>
+                            <button className='btn btn-primary'>Book Now</button>
                         </div>
 
                     </div>
@@ -64,7 +64,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                            <button className='btn btn-primary'>Book</button>
+                            <button className='btn btn-primary'>Book Now</button>
                         </div>
 
                     </div>
@@ -84,7 +84,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                            <button className='btn btn-primary'>Book</button>
+                            <button className='btn btn-primary'>Book Now</button>
                         </div>
 
                     </div>

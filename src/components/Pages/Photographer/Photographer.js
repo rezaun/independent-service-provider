@@ -21,9 +21,10 @@ const Photographer = () => {
                             <div className="card-body">
                                 <h5 className="card-title">{service.name}</h5>
                                 <h6>Price: ${service.price}/hr</h6>
+                                <p>Rating: {service.rating}/10</p>
                                 <p>Phone: <span className='text-primary'>{service.phone}</span></p>
                                 <p className="card-text">{service.description.slice(0,120)}</p>
-                                <button className='btn btn-success'>Hire</button>
+                                <button className='btn btn-success'>Hire Me</button>
                             </div>
                            
                         </div>

@@ -4,6 +4,7 @@
     "picture": "https://www.okler.net/previews/porto/9.7.0/img/team/team-1.jpg",
     "price": 15,
     "name": "Jeanie",
+    "rating": 7,
     "email": "jeanieelliott@zentia.com",
     "phone": "+088 (819) 545-3278",
     "description": "Dolor sunt duis velit consequat voluptate ad excepteur commodo in ad. Aute do ad cupidatat esse ipsum reprehenderit voluptate aute dolor amet. Lorem mollit minim proident aliquip occaecat ipsum id aliquip in. In aliquip sit non mollit irure ipsum ex. Aliqua eu consequat mollit ad reprehenderit elit ea ad nulla magna.\r\n"
@@ -13,6 +14,7 @@
     "picture": "https://www.okler.net/previews/porto/9.7.0/img/team/team-2.jpg",
     "price": 9,
     "name": "Neal",
+    "rating": 9,
     "email": "nealelliott@zentia.com",
     "phone": "+088 (857) 420-3317",
     "description": "Sit velit proident ipsum velit pariatur ullamco nisi quis et occaecat laborum in minim. Cupidatat aute aute aliquip sint excepteur amet sint adipisicing ipsum nisi sunt consequat reprehenderit. Ullamco nisi occaecat velit sunt. Qui nisi duis deserunt ullamco excepteur anim deserunt commodo velit. Mollit incididunt occaecat sint do culpa mollit dolor. Incididunt anim id enim veniam ut ut.\r\n"
@@ -22,6 +24,7 @@
     "picture": "https://www.okler.net/previews/porto/9.7.0/img/team/team-3.jpg",
     "price": 12,
     "name": "Mattie",
+    "rating": 5,
     "email": "mattieelliott@zentia.com",
     "phone": "+088 (857) 414-3445",
     "description": "Incididunt cillum magna Lorem ex ullamco laboris tempor occaecat eiusmod reprehenderit nulla pariatur. Laborum consequat et consequat non consectetur consequat Lorem id dolor deserunt esse. Sunt in mollit laboris duis sint laboris minim labore occaecat Lorem duis deserunt culpa et. Non ipsum laboris laboris adipisicing ex Lorem magna esse do culpa dolore. Incididunt nostrud dolore ea fugiat eiusmod excepteur adipisicing mollit veniam mollit elit. Ex anim nisi ad consequat aute sit incididunt ex incididunt pariatur non duis ullamco do.\r\n"
@@ -31,6 +34,7 @@
     "picture": "https://www.okler.net/previews/porto/9.7.0/img/team/team-4.jpg",
     "price": 8,
     "name": "Holman",
+    "rating": 8,
     "email": "holmanelliott@zentia.com",
     "phone": "+088 (836) 525-3267",
     "description": "Labore mollit aliqua officia officia et ut tempor. Nostrud magna voluptate id ut incididunt eu deserunt excepteur eu et duis aliquip. Commodo commodo ad reprehenderit ipsum cillum enim incididunt occaecat eiusmod ad ullamco culpa elit. Est ex enim reprehenderit esse Lorem exercitation in id est.\r\n"
@@ -40,6 +44,7 @@
     "picture": "https://www.okler.net/previews/porto/9.7.0/img/team/team-5.jpg",
     "price": 6,
     "name": "Patrick",
+    "rating": 4,
     "email": "patrickelliott@zentia.com",
     "phone": "+088 (854) 472-3373",
     "description": "Fugiat quis ex ullamco deserunt culpa pariatur culpa culpa cillum. Ad quis minim sunt qui irure mollit quis. Cillum velit id aute mollit in consequat est cupidatat est minim Lorem enim nisi. Dolore sint velit magna sint.\r\n"
@@ -49,6 +54,7 @@
     "picture": "https://www.okler.net/previews/porto/9.7.0/img/team/team-6.jpg",
     "price": 7,
     "name": "Barr",
+    "rating": 7,
     "email": "barrelliott@zentia.com",
     "phone": "+088 (939) 444-2336",
     "description": "Magna elit magna officia consectetur reprehenderit proident commodo nulla tempor dolor incididunt id. Proident culpa pariatur magna in anim. Ea dolore proident deserunt velit. Fugiat eu deserunt in nostrud ea non voluptate quis eiusmod sint voluptate laboris anim et. Dolore cupidatat nisi laboris aliqua voluptate voluptate tempor officia culpa aute excepteur pariatur occaecat voluptate. Id ad elit duis nisi eiusmod incididunt est. Deserunt laborum id mollit cupidatat laboris tempor mollit.\r\n"
@@ -58,6 +64,7 @@
     "picture": "https://www.okler.net/previews/porto/9.7.0/img/team/team-7.jpg",
     "price": 14,
     "name": "Berger",
+    "rating": 6,
     "email": "bergerelliott@zentia.com",
     "phone": "+088 (830) 465-2948",
     "description": "Occaecat exercitation dolor tempor consectetur ullamco incididunt enim. Qui sit est sit reprehenderit do cillum ad reprehenderit ex dolore cupidatat magna esse. Aliquip adipisicing aute pariatur dolore. Cillum fugiat ullamco excepteur magna eiusmod et duis veniam anim est elit.\r\n"
@@ -67,6 +74,7 @@
     "picture": "https://www.okler.net/previews/porto/9.7.0/img/team/team-8.jpg",
     "price": 11,
     "name": "Steven",
+    "rating": 4,
     "email": "hanitt@zentia.com",
     "phone": "+088 (830) 155-2948",
     "description": "proident occaecat exercitation dolor tempor consectetur ullamco incididunt enim. Qui sit est sit reprehenderit do cillum ad reprehenderit ex dolore cupidatat magna esse. Aliquip adipisicing aute pariatur dolore. Cillum fugiat ullamco excepteur magna eiusmod et duis veniam anim est elit.\r\n"
