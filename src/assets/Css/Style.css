@@ -1,3 +1,6 @@
+button:hover{
+    background-color: tomato !important;
+}
 .footerContainer{
     background-color: royalblue;
     color: #fff;
