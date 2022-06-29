@@ -45,7 +45,7 @@ const Service = () => {
                                     <li> Complimentary engagement session</li>
                                     <li> Hardcover wedding albums</li>
                                 </ul></p>
-                                <button><Link className='btn btn-primary' to='/checkout'>Book Now</Link></button>
+                                <Link className='btn btn-primary' to='/checkout'>Book Now</Link>
                         </div>
 
                     </div>

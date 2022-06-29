@@ -28,3 +28,11 @@ button:hover{
     color: blue;
     
 }
+/* cart section*/
+.cartWrapper{
+    background-color: #ffecec;
+    padding: 0 10%;
+}
+.socialBox{
+    font-size: 22px;
+}

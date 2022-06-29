@@ -3,6 +3,7 @@ import { useAuthState, useSignInWithEmailAndPassword, useSignInWithGoogle } from
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { auth } from '../../../firebase.init';
 import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Login = () => {
     const [userInfo, setUserInfo] = useState({

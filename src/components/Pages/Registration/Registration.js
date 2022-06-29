@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import { useAuthState, useCreateUserWithEmailAndPassword, useSignInWithEmailAndPassword, useSignInWithGoogle } from 'react-firebase-hooks/auth';
+import { useCreateUserWithEmailAndPassword} from 'react-firebase-hooks/auth';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { auth } from '../../../firebase.init';
 import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Registration = () => {
     const [userInfo, setUserInfo] = useState({
@@ -72,7 +73,7 @@ const Registration = () => {
     }
     const navigate = useNavigate();
     const location = useLocation();
-    const from = location.state?.from?.pathname || "/home";
+    const from = location.state?.from?.pathname || "/";
     
     useEffect(()=>{
         if(user){
