@@ -1,4 +1,4 @@
-# Site Live Link: [AR PhotoGraphy](https://ar-photography-kabir.netlify.app/).
+# Site Live Link: [AR PhotoGraphy](https://ar-photography-kabir.netlify.app/)
 ## Site Feature
 * Can register with Email and password with firebase
 * User Can Registration with Gmail
@@ -7,6 +7,10 @@
 * Only Registerer member can see checkout page.
 * Sticky Navbar and Sticky Footer
 * Success message and error message showing with toastify.
+
+
+
+
 
 # Getting Started with Create React App
 
