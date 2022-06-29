@@ -1,3 +1,13 @@
+#Site Live Link: [AR PhotoGraphy] https://ar-photography-kabir.netlify.app/
+## Site Feature
+* Can register with Email and password with firebase
+* User Can Registration with Gmail
+* Use react font for social icon
+* Site Fully responsive
+* Only Registerer member can see checkout page.
+* Sticky Navbar and Sticky Footer
+* Success message and error message showing with toastify.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
