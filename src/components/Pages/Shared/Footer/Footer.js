@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-sm-6 col-md-6 col-xs-12">
-                        <p className='text-center p-1'>Copyright 2005 - 2022 |  All Rights Reserved | Powered by &copy; <Link to='/home'>Kabir</Link></p>    
+                        <p className='text-center p-1'>Copyright 2005 - 2022 |  All Rights Reserved | Powered by &copy; <a href="https://www.facebook.com/rezaunkabir" target={'_blank'}>Kabir</a></p>    
                     </div>
                     <div className="col-sm-6 col-md-6 col-xs-12 text-end px-5 socialBox">                         
                         <a className='px-1' href='https://www.facebook.com/rezaunkabir' target="_blank"><FaFacebookSquare/></a>                          
