@@ -10,7 +10,7 @@ const AboutMe = () => {
                         <img className='w-100 rounded' src={kabir} alt="" />
                     </div>
                     <div className="col-md-8 col-sm-8 col-xs-12 pt-5">
-                        <h2>Way to Achieve the Goal</h2>
+                        <h2>Way to Struggle !!! </h2>
                         <p className='aboutMeText'>Try to get involved in a real project. Doesn't have to be a big project, the important thing is that it's somewhat well defined.Preferably do the project for or with someone else, so that I can get some “external pressure” to finish the project.</p>
                         <p className='aboutMeText'>
                         Do the project for myself, there is a big risk i will loose interest in the project or only do the easy parts. Then you won't learn as much and i won't get the experience of finishing something.</p>

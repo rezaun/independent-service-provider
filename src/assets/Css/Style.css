@@ -39,3 +39,21 @@ button:hover{
 .aboutMeText{
     text-align: justify;
 }
+.notFoundWrapper{
+    height: 100%;
+    width: 100%;    
+    background-color:#cdcdcd;
+}
+.notFoundWrapper h1{
+    font-size: 60px;
+    margin: 5% 0;
+}
+.notFoundWrapper h1 span{
+    font-size: 128px;
+    display: block;
+    color: tomato;
+}
+.notFoundWrapper a{
+    color: tomato;
+    text-decoration: none;
+}
